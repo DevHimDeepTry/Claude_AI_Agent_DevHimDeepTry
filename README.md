@@ -35,11 +35,6 @@ agent/
 
 1. Clone dự án:
 
-```bash
-git clone https://github.com/cnguyen14/Claude_AI_Agent.git
-cd agent
-```
-
 2. Cài đặt các thư viện cần thiết:
 
 ```bash
